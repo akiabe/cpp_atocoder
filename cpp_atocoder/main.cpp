@@ -11,7 +11,6 @@ using namespace std;
 
 int main() {
     
-    int a1, a2, a3;
-    cin >> a1
+    vector<int>
     
 }
